@@ -107,7 +107,7 @@
                                 <h5 class="uppercase">CISCO Systems</h5>
                                 <p>
                                     « Since early 2015, Cisco has been engaged in France in active collaboration and sponsorship of NUMA’s activities, and especially NUMA Sprint and Data City acceleration programs. Our collaboration has allowed us to witness NUMA’s capacity to create environments
-                                    prone to the development of successful start-ups and ecosystems relying on an influential network of corporates, technical experts and seasoned entrepreneurs. »
+                                    prone to the development of successful startups and ecosystems relying on an influential network of corporates, technical experts and seasoned entrepreneurs. »
                                 </p>
                             </div>
 
@@ -115,8 +115,8 @@
                                 <img style="max-width:125px;" class="mb24" src="http://static1.squarespace.com/static/56bd972c04426232bfc029b5/t/56c437455559863ca8e14535/1455699792886/?format=300w">
                                 <h5 class="uppercase">SNCF Gares & Connexions Chief Executive Officer</h5>
                                 <p>
-                                    « We have been working continuously since 2011 with NUMA on acceleration programs and change management programs. Thanks to our cooperation we have been able to source profitable innovations on various issues such as safety with a start-up named DocTrackR
-                                    and mobile applications with another start-up named Kawet. These are examples amongst dozens of innovations. The last project we launched with NUMA is a retail mobile application to accelerate our conversion rate in
+                                    « We have been working continuously since 2011 with NUMA on acceleration programs and change management programs. Thanks to our cooperation we have been able to source profitable innovations on various issues such as safety with a startup named DocTrackR
+                                    and mobile applications with another startup named Kawet. These are examples amongst dozens of innovations. The last project we launched with NUMA is a retail mobile application to accelerate our conversion rate in
                                     the shopping malls in our train stations. »
                                 </p>
                             </div>

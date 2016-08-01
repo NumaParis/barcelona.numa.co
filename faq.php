@@ -24,7 +24,7 @@
     <meta itemprop="name" content="Home">
     <meta itemprop="description" content="Europe\'s first growth acceleration program
         NUMA Barcelona
-        We bring growth and human capital to start-ups
+        We bring growth and human capital to startups
         APPLY HERE">
 
 </head>
@@ -70,7 +70,7 @@
                     <div class="row">
                         <div class="col-sm-12">
                             <p class="lead">
-                                In exchange for a 5% equity stake, each start-up participating in the 4-month program will benefit from:
+                                In exchange for a 5% equity stake, each startup participating in the 4-month program will benefit from:
                                 <ul style="margin-left:25px;" data-bullet="ti-arrow-right">
                                     <li>Weekly one-to-one meetings with an Entrepreneur in Residence</li>
                                     <li>Office hours with Experts in Residence</li>
@@ -121,7 +121,7 @@
                                 </li>
                                 <li>
                                     <div class="title">
-                                        <h4 class="inline-block mb0">Hos iw the selection done?</h4>
+                                        <h4 class="inline-block mb0">How is the selection done?</h4>
                                     </div>
                                     <div class="content">
                                         <p>
@@ -286,7 +286,7 @@
                                             either UK, US, France or Spain. Partnering law firms will be able to assist you with the paperwork.
                                         </p>
                                         <p class="mb0">
-                                            However please note that NUMA’s 30.000€ can’t be provided until your start-up is legally set-up.
+                                            However please note that NUMA’s 30.000€ can’t be provided until your startup is legally set-up.
                                         </p>
                                     </div>
                                 </li>
@@ -333,7 +333,7 @@
                                     </div>
                                     <div class="content">
                                         <p class="mb0">
-                                            The Demo Day is the last event of the acceleration program. You’ll be provided with the opportunity to present your start-up to a large panel of investors, corporates and journalists. The demo day will be held in 4YFN and will gather 500 influential professionals,
+                                            The Demo Day is the last event of the acceleration program. You’ll be provided with the opportunity to present your startup to a large panel of investors, corporates and journalists. The demo day will be held in 4YFN and will gather 500 influential professionals,
                                             including angel or VC investors.
                                         </p>
                                     </div>

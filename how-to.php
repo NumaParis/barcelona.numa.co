@@ -24,7 +24,7 @@
     <meta itemprop="name" content="Home">
     <meta itemprop="description" content="Europe\'s first growth acceleration program
         NUMA Barcelona
-        We bring growth and human capital to start-ups
+        We bring growth and human capital to startups
         APPLY HERE">
 
 </head>
@@ -251,7 +251,7 @@
                                     <div class="content">
                                         <p>
                                             Here we’re trying to understand how big the opportunity is, if it is a VC fundable business and if you are able to clearly describe your market. Please provide precise insights on the market, do go into details about how many/percentage of companies/clients
-                                            you believe can reach and why! A common mistake is for start-ups to provide big figures to impress readers, such as “The market is huge, European Millennials are forecast to spend over 30 billion euro in online
+                                            you believe can reach and why! A common mistake is for startups to provide big figures to impress readers, such as “The market is huge, European Millennials are forecast to spend over 30 billion euro in online
                                             bookings in 2016 (Phocuswright) and according to Expedia 75% of this population would like a service that would provided recommendations based on their budget and 67% on their Personality. Also Tripadvisor is
                                             growing and trying to really sell trips. The market is huge and personalization and AI is the future.”. By any means, show us that you understand your market and who you’re targeting, provide realistics figures
                                             on how many clients you believe you can reach within 16 months and why you’ve made these assumptions.

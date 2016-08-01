@@ -24,7 +24,7 @@
     <meta itemprop="name" content="Home">
     <meta itemprop="description" content="Europe\'s first growth acceleration program
         NUMA Barcelona
-        We bring growth and human capital to start-ups
+        We bring growth and human capital to startups
         APPLY HERE">
 
 </head>
@@ -94,7 +94,7 @@
                                             <h5 class="uppercase">Human Resources</h5>
                                         </div>
                                         <p>
-                                            Bring an entrepreneurial culture within your company, by exposing your teams to the start-up's way of working, gaining agility and speed of execution.
+                                            Bring an entrepreneurial culture within your company, by exposing your teams to the startup's way of working, gaining agility and speed of execution.
                                         </p>
                                     </div>
                                     <!--end of feature-->

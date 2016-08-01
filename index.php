@@ -24,7 +24,7 @@
     <meta itemprop="name" content="Home">
     <meta itemprop="description" content="Europe\'s first growth acceleration program
         NUMA Barcelona
-        We bring growth and human capital to start-ups
+        We bring growth and human capital to startups
         APPLY HERE">
 </head>
 
@@ -47,15 +47,15 @@
 
                         <!-- Title -->
                         <div class="col-sm-12 text-center mb32">
-                            <h3 class="bold mb0 hidden-xs" style="font-size:20px;">Europe's first growth acceleration program</h3>
+                            <h3 class="bold mb0" style="font-size:20px;">Europe's first growth acceleration program</h3>
                             <h1 class="large mb0 hidden-xs" style="font-size:40px;"><img src="img/left-bar.png" style="margin-right:10px;vertical-align: middle;margin-left:20px;height: 40px;"><strong>NUMA BARCELONA</strong><img style="vertical-align: middle;margin-left:20px;height: 40px;" src="img/right-bar.png"></h1>
-                            <h1 class="large mt32 mb24 hidden-lg hidden-md hidden-sm mt-xs-80 mb-xs-0"><img src="img/left-bar.png" style="vertical-align:sub;margin-right:10px;height:30px;"><strong style="font-size:23px;">NUMA BARCELONA</strong><img style="vertical-align:sub;margin-left:10px;height:30px;" src="img/right-bar.png"></h1>
-                            <h3 class="bold mb0 hidden-xs" style="font-size:20px;">We bring growth and human capital to startups</h3>
+                            <h1 class="large mt32 mt-xs-0 mb24 hidden-lg hidden-md hidden-sm mt-xs-80 mb-xs-0"><img src="img/left-bar.png" style="vertical-align:sub;margin-right:10px;height:30px;"><strong style="font-size:23px;">NUMA BARCELONA</strong><img style="vertical-align:sub;margin-left:10px;height:30px;" src="img/right-bar.png"></h1>
+                            <h3 class="bold mb0" style="font-size:20px;">We bring growth and human capital to startups</h3>
                         </div>
                         <!-- /. Title -->
 
                         <!-- Countdown -->
-                        <div id="clockdiv" class="mb32">
+                        <div id="clockdiv" class="mb32 hidden-xs hidden-sm">
                             <div>
                                 <span class="days"></span>
                                 <div class="smalltext">Days</div>
@@ -699,7 +699,7 @@
                             </div>
                         </div>
                         <div class="col-md-6 col-md-pull-6">
-                            <div class="feature bordered hidden-xs hidden-sm" style="margin-bottom: 33px !important;">
+                            <div class="feature bordered" style="margin-bottom: 33px !important;">
                                 <h4 class="uppercase mb40 mb-xs-24">SUCCESSFUL ENTREPRENEURS</h4>
                                 <p>
                                     Thanks to our network and our alumni, you will have access to successful entrepreneurial insights and tips plus the dos and don’ts that they learnt from their own experiences. We believe these entrepreneurs are the best people to help you build your company

@@ -24,7 +24,7 @@
     <meta itemprop="name" content="Home">
     <meta itemprop="description" content="Europe\'s first growth acceleration program
         NUMA Barcelona
-        We bring growth and human capital to start-ups
+        We bring growth and human capital to startups
         APPLY HERE">
 
 </head>
