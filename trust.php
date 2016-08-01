@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Already trust Numa - Numa Barcelona</title>
+    <title>Already trust NUMA - NUMA Barcelona</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
@@ -16,7 +16,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
     <!-- METAS -->
-    <meta property="og:site_name" content="Numa Barcelona">
+    <meta property="og:site_name" content="NUMA Barcelona">
     <meta property="og:title" content="Become a partner">
     <meta property="og:url" content="http://barcelona.numa.co/">
     <meta property="og:type" content="website">

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>FAQ - Numa Barcelona</title>
+    <title>FAQ - NUMA Barcelona</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
@@ -16,8 +16,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
     <!-- METAS -->
-    <meta property="og:site_name" content="Growth Acceleration Program - Numa Barcelona">
-    <meta property="og:title" content="Growth Acceleration Program - Numa Barcelona">
+    <meta property="og:site_name" content="Growth Acceleration Program - NUMA Barcelona">
+    <meta property="og:title" content="Growth Acceleration Program - NUMA Barcelona">
     <meta property="og:url" content="http://barcelona.numa.co/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://bloomedia.biz/tests/numa/img/press-kit/N-turquoise-kleinblue.png">
@@ -365,7 +365,7 @@
                                 </li>
                                 <li>
                                     <div class="title">
-                                        <h4 class="inline-block mb0">What are the most famous startups that graduated from Numa's program?</h4>
+                                        <h4 class="inline-block mb0">What are the most famous startups that graduated from NUMA's program?</h4>
                                     </div>
                                     <div class="content">
                                         <p class="mb0">
@@ -380,10 +380,10 @@
                     </div>
                     <!-- /. 5/ What is happening during the 4-month program? -->
 
-                    <!-- 6/ Your agreement with Numa -->
+                    <!-- 6/ Your agreement with NUMA -->
                     <div class="row">
                         <div class="col-sm-12">
-                            <h4 class="uppercase mb40">6/ Your agreement with Numa</h4>
+                            <h4 class="uppercase mb40">6/ Your agreement with NUMA</h4>
                         </div>
                     </div>
                     <div class="row mb40">
@@ -414,7 +414,7 @@
                                 </li>
                                 <li>
                                     <div class="title">
-                                        <h4 class="inline-block mb0">What are the terms of Numa's financial support?</h4>
+                                        <h4 class="inline-block mb0">What are the terms of NUMA's financial support?</h4>
                                     </div>
                                     <div class="content">
                                         <p class="mb0">
@@ -424,7 +424,7 @@
                                 </li>
                                 <li>
                                     <div class="title">
-                                        <h4 class="inline-block mb0">How does Numa take 5% in the Startups accelerated?</h4>
+                                        <h4 class="inline-block mb0">How does NUMA take 5% in the Startups accelerated?</h4>
                                     </div>
                                     <div class="content">
                                         <p class="mb0">
@@ -451,7 +451,7 @@
                                 </li>
                                 <li>
                                     <div class="title">
-                                        <h4 class="inline-block mb0">Do I have to accept Numa's financial support?</h4>
+                                        <h4 class="inline-block mb0">Do I have to accept NUMA's financial support?</h4>
                                     </div>
                                     <div class="content">
                                         <p class="mb0">
@@ -481,7 +481,7 @@
                                 </li>
                                 <li>
                                     <div class="title">
-                                        <h4 class="inline-block mb0">Can I attend Numa's workshops, tutorials and mentor sessions after the program?</h4>
+                                        <h4 class="inline-block mb0">Can I attend NUMA's workshops, tutorials and mentor sessions after the program?</h4>
                                     </div>
                                     <div class="content">
                                         <p class="mb0">
@@ -502,7 +502,7 @@
                                 </li>
                                 <li>
                                     <div class="title">
-                                        <h4 class="inline-block mb0">Will Numa help me raise funds?</h4>
+                                        <h4 class="inline-block mb0">Will NUMA help me raise funds?</h4>
                                     </div>
                                     <div class="content">
                                         <p class="mb0">
@@ -517,7 +517,7 @@
                             <!--end of accordion-->
                         </div>
                     </div>
-                    <!-- /. 6/ Your agreement with Numa -->
+                    <!-- /. 6/ Your agreement with NUMA -->
 
                     <!-- Apply button -->
                     <hr class="mt96 mb96">

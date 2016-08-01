@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Numa Barcelona</title>
+    <title>NUMA Barcelona</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/themify-icons.css" rel="stylesheet" type="text/css" media="all" />
@@ -16,8 +16,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
     <!-- METAS -->
-    <meta property="og:site_name" content="Growth Acceleration Program - Numa Barcelona">
-    <meta property="og:title" content="Growth Acceleration Program - Numa Barcelona">
+    <meta property="og:site_name" content="Growth Acceleration Program - NUMA Barcelona">
+    <meta property="og:title" content="Growth Acceleration Program - NUMA Barcelona">
     <meta property="og:url" content="http://barcelona.numa.co/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://bloomedia.biz/tests/numa/img/press-kit/N-turquoise-kleinblue.png">
@@ -201,7 +201,7 @@
                         <div class="col-md-8 col-md-offset-2">
                             <!-- Blockquote -->
                             <p>
-                                “Numa Acceleration is the best program to transform early-stage projects into businesses and smart people into high achieving entrepreneurs. The mindset, network and support were invaluable at the stage of our company!”
+                                “NUMA Acceleration is the best program to transform early-stage projects into businesses and smart people into high achieving entrepreneurs. The mindset, network and support were invaluable at the stage of our company!”
                             </p>
                             <div class="spread-children text-center">
                                 <img style="border-radius:50px" class="image-xs" src="http://static1.squarespace.com/static/56bd972c04426232bfc029b5/t/576c1831e3df286cce6141ea/1466702501500/?format=300w">
@@ -214,7 +214,7 @@
             </section>
             <!-- /. Quote -->
 
-            <!-- Section / Numa Barcelona -->
+            <!-- Section / NUMA Barcelona -->
             <section>
 
                 <!-- container -->
@@ -234,7 +234,7 @@
 
                         <!-- Title -->
                         <div class="col-md-12">
-                            <h3 class="color-primary">Numa Barcelona is Europe's growth acceleration program for tech startups.</h1>
+                            <h3 class="color-primary">NUMA Barcelona is Europe's growth acceleration program for tech startups.</h1>
                     </div>
                     <!-- /. Title -->
                     <!-- Description -->
@@ -256,7 +256,7 @@
             <!-- /. container -->
 
         </section>
-        <!-- /. Section / Numa Barcelona -->
+        <!-- /. Section / NUMA Barcelona -->
 
         <!-- Section / Logo Carousel -->
         <section class="bg-secondary">
@@ -333,7 +333,7 @@
                             </div>
                             <p>
                                 F6S can be tricky to use, but remember this: Your form is automatically saved with every change. Don’t believe it? Look at the top left corner of the page after you make a change, you can always come back and finish it later.
-                                <br /> If you get lost hit the home link then go to <i>Groups</i> > <i>Numa Barcelona</i> (it’s in the left sidebar) It’s almost guaranteed that you’ll miss something the first time you Submit the application, F6S tells you what
+                                <br /> If you get lost hit the home link then go to <i>Groups</i> > <i>NUMA Barcelona</i> (it’s in the left sidebar) It’s almost guaranteed that you’ll miss something the first time you Submit the application, F6S tells you what
                                 information is missing, but if you have trouble finding it remember that the missing fields may be inside some of your teammates profiles.
                                 <br /> You are allowed to fill in the personal fields of your teammates, provided that they know what you’re doing :-)
                             </p>
@@ -367,7 +367,7 @@
                     <!-- Blockquote
                     <blockquote>
                         <p>
-                            “Numa Acceleration is the best program to transform early-stage projects into businesses and smart people into high achieving entrepreneurs. The mindset, network and support were invauable at the stage of our company!”
+                            “NUMA Acceleration is the best program to transform early-stage projects into businesses and smart people into high achieving entrepreneurs. The mindset, network and support were invauable at the stage of our company!”
                         </p>
                         <div class="spread-children text-right">
                             <span>Quoang Hoang - Ceo of Birdly</span>

@@ -93,7 +93,7 @@
         <!--end of row-->
         <div class="row">
             <div class="col-sm-6">
-                <span class="sub">&copy; Copyright 2016 - Barcelona Numa</span>
+                <span class="sub">&copy; Copyright 2016 - Barcelona NUMA</span>
             </div>
             <div class="col-sm-6 text-right">
                 <ul class="list-inline social-list">
