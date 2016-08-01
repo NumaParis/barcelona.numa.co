@@ -106,9 +106,9 @@
         </div>
     </div>
 
-    <div class="row text-center bg-dark">
+    <!--<div class="row text-center bg-dark">
         <h4 style="opacity:0.4;" class="mt24">#yeswecrowd</h4>
-    </div>
+    </div>-->
 
     <!--end of container-->
     <a class="btn btn-sm fade-half back-to-top inner-link" href="#top">Top</a>

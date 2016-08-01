@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "u85155018.1and1-data.host",
+  "port": "22",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "u85155018-lopermo",
+  "password": "lop:8024583374",
+  "watch": [],
+  "transport": "scp",
+  "target": "/agency/tests/numa"
+}
